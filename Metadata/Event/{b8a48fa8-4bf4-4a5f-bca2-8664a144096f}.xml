@@ -72,6 +72,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{d26c62cc-470a-4262-888d-48f91a7a5303}">
+		<property name="volume">
+			<value>-12</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{fbeb57e5-8c78-4f3a-96cf-8fb305e95f5f}</destination>
 		</relationship>
@@ -95,6 +98,7 @@
 	<object class="MixerBusPanner" id="{f397b0b1-8fad-43c8-9255-28c4d7cda35f}" />
 	<object class="MixerBusEffectChain" id="{fbeb57e5-8c78-4f3a-96cf-8fb305e95f5f}">
 		<relationship name="effects">
+			<destination>{cdfb57fc-19c8-4a8c-aeca-664c44ef347b}</destination>
 			<destination>{eac2d23c-0b26-42db-a913-af11a42e20dc}</destination>
 			<destination>{4f773007-7d1f-4f87-b347-0a9e988e5e77}</destination>
 		</relationship>
@@ -117,6 +121,7 @@
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{b41a70fa-c6db-4ffd-851d-2d4b9720c352}" />
+	<object class="SFXReverbEffect" id="{cdfb57fc-19c8-4a8c-aeca-664c44ef347b}" />
 	<object class="MixerBusFader" id="{eac2d23c-0b26-42db-a913-af11a42e20dc}" />
 	<object class="SpatialiserEffect" id="{4f773007-7d1f-4f87-b347-0a9e988e5e77}" />
 	<object class="SingleSound" id="{4f3ef2dd-b96f-4338-931b-324b45f83f2f}">
