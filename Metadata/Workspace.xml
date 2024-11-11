@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{c17a1e09-aa83-4fc9-b10d-5bf81bfbf0ff}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../../Xibalba Git/Assets/FMODBanks</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{bd3d6496-6418-400d-b2bc-84e2491d6c10}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{3cdba33b-9f2a-4298-a35f-b2bc17ebf144}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{5d165d7a-410e-4867-b121-4b3231f78f41}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{b8bf1016-6bbf-4bc1-a2e8-18a4a6fe5aa6}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{44420834-a751-43c0-8bb0-ed5908c013ea}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{da927e21-9166-4a2a-801f-63b842f6207d}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{0b7e9115-6d6e-40b9-9aa4-5b0c5a11bca2}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{02f5738f-1612-46bb-aaf4-fe095a96c8ce}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{a78634fc-751e-413f-b1f6-0a9666ce5d70}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{28397642-06af-4e14-b4c3-9dbcbc47f179}</destination>
+		</relationship>
+	</object>
+</objects>
