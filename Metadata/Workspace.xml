@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Workspace" id="{70017a24-fb9c-4e5a-8cfd-a220d4c33671}">
 		<property name="builtBanksOutputDirectory">
-			<value>../Xibalba/Assets/Audio/FMOD_Build</value>
+			<value>../Xibalba Git/Assets/Audio/FMOD_Build</value>
 		</property>
 		<relationship name="masterEventFolder">
 			<destination>{32d99d4f-ddc4-4766-88bd-e4dcc3499e63}</destination>
