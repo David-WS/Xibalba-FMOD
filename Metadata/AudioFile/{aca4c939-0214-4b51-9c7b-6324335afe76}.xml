@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{aca4c939-0214-4b51-9c7b-6324335afe76}">
+		<property name="assetPath">
+			<value>Jaguar_Death.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.79390022675737</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e92dc386-9b11-4a61-97eb-3cca33702b9e}</destination>
+		</relationship>
+	</object>
+</objects>
