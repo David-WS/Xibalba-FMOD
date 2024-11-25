@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{19ab4793-12ce-48f6-bcb1-bde3feede15d}">
 		<property name="name">
-			<value>Dagger Hit Enemy Stab</value>
+			<value>Dagger Attack Hit Enemy Stab</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
